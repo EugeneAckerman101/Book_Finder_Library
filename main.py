@@ -12,7 +12,7 @@ def search_pdfs(directory, keyword):
 
 # Change 'your_directory_path' to the path of your folder with the PDFs
 directory_path = r"C:\Users\Eugene\Documents\4_Private_New\E-Books\_OceanofPDF"
-search_keyword = 'Creature'
+search_keyword = 'AI'
 
 # Define the output directory on your Desktop
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
